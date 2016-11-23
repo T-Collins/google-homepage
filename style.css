@@ -1,0 +1,10 @@
+div {
+	display: table;
+	margin: auto;
+}
+
+#outer {
+	text-align: center;
+}
+
+
